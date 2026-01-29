@@ -1,2 +1,2 @@
+- [readabilityrs](https://github.com/theiskaa/readabilityrs) - The core library used to parse web pages into simple readable html documents in Reeed API.
 - [html_highlight](https://github.com/reeedio/html_highlight) - DOM-based html highlighting engine for Flutter that we use in Reeed mobile app.
-- [readabilityrs](https://github.com/theiskaa/readabilityrs) - The core library used to parse web pages into simple readable html documents.
