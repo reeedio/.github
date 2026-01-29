@@ -1,1 +1,2 @@
-![og](https://github.com/user-attachments/assets/3f7e447e-57e6-4199-82af-f482e562a24f)
+- [html_highlight](https://github.com/reeedio/html_highlight) - DOM-based html highlighting engine for Flutter that we use in Reeed mobile app.
+- [readabilityrs](https://github.com/theiskaa/readabilityrs) - The core library used to parse web pages into simple readable html documents.
